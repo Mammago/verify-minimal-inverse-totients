@@ -91,4 +91,4 @@ The final bound is $\log N_{\min}(m) \geq \min\\{(B+1)\log 2 + \text{even\_opt},
 
 ## License
 
-MIT
+GPLv3
